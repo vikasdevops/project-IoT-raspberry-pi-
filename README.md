@@ -1,11 +1,11 @@
 # project-IoT-raspberry-pi-
-aware of IoT/project   
+## Temperature detected by sensor.
+- Aware of IoT/project   
 ![](/images/rasospng.png)
 
 
-```sh  
-##The block diagram of raspberry pi the interface of terminal. The code written in the terminal of the raspberry pi. The temperature sensor display the temp. On the terminal.
-```
+>The block diagram of raspberry pi the interface of terminal. The code written in the terminal of the raspberry pi. The temperature sensor display the temp. On the terminal.
+
 
  ![](/images/block.png)
 
@@ -26,18 +26,19 @@ aware of IoT/project
  - Sharing Internet Over Ethernet:   
  >To share internet with multiple users over Ethernet, go to Network and Sharing Center. Then click on the WiFi network:
 
- ![](/images/internet.png)
+<img src="images/internet.png" width=410 height=420>
 
-![](images/est.jpg)
+<img src="images/est.jpg" width=410 height=420>
+
 
 ### What is PuTTY and what is it used for?
 >Like OpenSSH, PuTTY is a very versatile tool for remote access to another computer. It's probably used more often by people who want secure remote shell access to a UNIX or Linux system than for any other purpose, though that is only one of its many uses. PuTTY is more than just an SSH client
 
-<img src="images/putty.png" width=440 height=400>
+<img src="images/putty.png" width=410 height=420>
 
 ### Terminal of raspberry pi  
 
-![](images/terminal.png)
+<img src="images/terminal.png" width=500 height=260>
 ### Project planning:
 >1.	 I think the idea to sense the temperature and blink the LED though the codes.
 2.	 Raspberry pi connect to pc and other instrument to support the temperature as well as LED blink.
@@ -46,7 +47,7 @@ aware of IoT/project
 5.	Than analysis the bugs.
 6.	Than check the code working or not.
 
-![](images/blockpl.jpg)
+<img src="images/blockpl.jpg" width=330 height=320>
 
 ### Coding:
 ![](images/code.png)
@@ -61,3 +62,7 @@ aware of IoT/project
 ### Testing Techniques:
 - check again GPIO pins
 ![](images/g.png)
+
+## raspberry by AWS mq 2 smoke sensor, pir motion sensor
+
+# work in progress......... 
