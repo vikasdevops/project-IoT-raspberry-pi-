@@ -59,10 +59,11 @@
 <img src="images/led1.jpg" width=340 height=400>
 ### LED blink 2
 <img src="images/led2.jpg" width=340 height=200>
+
 ### Testing Techniques:
 - check again GPIO pins
-![](images/g.png)
+ ![](images/g.png)
 
 ## raspberry by AWS mq 2 smoke sensor, pir motion sensor
 
-# work in progress......... 
+# work in progress.........
