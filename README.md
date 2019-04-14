@@ -7,7 +7,17 @@
 >The block diagram of raspberry pi the interface of terminal. The code written in the terminal of the raspberry pi. The temperature sensor display the temp. On the terminal.
 
 
- ![](/images/block.png)
+ ![](/images/block.png)      
+## DHT11 Temperature and Humidity Sensor:
+>This DHT11 Temperature and Humidity Sensor features a calibrated digital signal output with the temperature and humidity sensor capability. It is integrated with a high-performance 8-bit microcontroller. Its technology ensures the high reliability and excellent long-term stability.  This sensor includes a resistive element and a sensor for wet NTC temperature measuring devices. It has excellent quality, fast response, anti-interference ability and high performance.
+#### Specification:
+>•	Supply Voltage: +5 V   
+•	Temperature range :0-50 °C error of ± 2 °C   
+•	Humidity :20-90% RH ± 5% RH error
+
+<img src="images/dht11.jpg" width=240 height=200>     
+
+<img src="images/dht11b.png" width=400 height=350>
 
 # GPIO PINS:
 >The Raspberry Pi offers up its GPIO over a standard male header on the board. Over the years the header has expanded from 26 pins to 40 pins while maintaining the original pinout. If you're coming to the Raspberry Pi as an Arduino user, you're probably used to referencing pins with a single, unique number.
