@@ -40,7 +40,6 @@
 
 <img src="images/est.jpg" width=410 height=420>
 
-
 ### What is PuTTY and what is it used for?
 >Like OpenSSH, PuTTY is a very versatile tool for remote access to another computer. It's probably used more often by people who want secure remote shell access to a UNIX or Linux system than for any other purpose, though that is only one of its many uses. PuTTY is more than just an SSH client
 
