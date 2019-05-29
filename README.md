@@ -73,6 +73,39 @@
 - check again GPIO pins
  ![](images/g.png)
 
-## raspberry by AWS mq 2 smoke sensor, pir motion sensor
+## Raspberry by Motion sensor Pir Hc-Sr501
+
+<img src="images/nomt.jpg" width=340 height=270>
+
+- No Motion detected
+
+
+<img src="images/mot.jpg" width=340 height=280>
+- Motion detected
+
+### Output of Sensor
+<img src="images/sensor.png" width=390 height=380>
+
+
+
+# Connection of AWS to raspberry
+
+<img src="images/bot.jpg" width=520 height=440>
+- boto3 install
+
+# Motion sensor to AWS send Message to Email(ses)
+
+<img src="images/run.png" width=490 height=100>
+- run code
+
+<img src="images/aws.png" width=700 height=280 >
+- ses status
+
+<img src="images/email.png" width=200 height=400>
+- Email received
+
+
+
+
 
 # work in progress.............
