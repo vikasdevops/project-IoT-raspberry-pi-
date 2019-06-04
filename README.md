@@ -89,13 +89,24 @@
 
 
 # Connection of AWS to raspberry
+>boto3 is the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python developers to write software that makes use of services like Amazon S3 and Amazon EC2.
+Boto3 is the name of the Python SDK for AWS. It allows you to directly create, update, and delete AWS resources from your Python scripts
+Boto is a software development kit (SDK) designed to improve the use of the Python programming language in Amazon Web Services. ... Boto supports all current AWS cloud services, including Elastic Compute Cloud, DynamoDB, AWSConfig, CloudWatch and Simple Storage Service
+
 
 <img src="images/bot.jpg" width=520 height=440>
+B
 - boto3 install
 
 # Motion sensor to AWS send Message to Email(ses)
+- What Is IAM?
 
-<img src="images/run.png" width=490 height=100>
+>AWS Identity and Access Management (IAM) is a web service that helps you securely control access to AWS resources. You use IAM to control who is authenticated (signed in) and authorized (has permissions) to use resources.
+When you first create an AWS account, you begin with a single sign-in identity that has complete access to all AWS services and resources in the account. This identity is called the AWS account root user and is accessed by signing in with the email address and password that you used to create the account. We strongly recommend that you do not use the root user for your everyday tasks, even the administrative ones.
+
+
+
+<img src="images/run.png" width=590 height=120>
 - run code
 
 <img src="images/aws.png" width=700 height=280 >
