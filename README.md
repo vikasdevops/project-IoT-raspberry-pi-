@@ -1,3 +1,10 @@
+---------------------------------------------------------------------
+#   “HOME SECURITY ALERT MESSAGES TO         
+#        (AWS) IoT”
+#           $  
+#       “READING DHT 11 SENSOR”                         
+---------------------------------------------------------------------
+
 # project-IoT-raspberry-pi-
 ## Temperature detected by sensor.
 - Aware of IoT/project   
