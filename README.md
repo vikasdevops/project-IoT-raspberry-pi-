@@ -86,6 +86,15 @@
 ### Output of Sensor
 <img src="images/sensor.png" width=390 height=380>
 
+# Connection raspberry pi to AWS terminal
+>--cli-input-json (string) Performs service operation based on the JSON string provided. The JSON string follows the format provided by --generate-cli-skeleton. If other arguments are provided on the command line, the CLI values will override the JSON-provided values. It is not possible to pass arbitrary binary values using a JSON-provided value as the string will be taken literally.
+--generate-cli-skeleton (string) Prints a JSON skeleton to standard output without sending an API request. If provided with no value or the value input, prints a sample input JSON that can be used as an argument for --cli-input-json. If provided with the value output, it validates the command inputs and returns a sample output JSON for that command.
+
+<img src="images/awscli.png" width=430 height=190>
+
+<img src="images/awscliaw.png" width=590 height=400>
+
+
 
 
 # Connection of AWS to raspberry
